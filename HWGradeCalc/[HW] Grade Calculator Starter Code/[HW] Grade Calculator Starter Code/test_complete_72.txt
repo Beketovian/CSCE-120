@@ -1,0 +1,7 @@
+compile-check 1
+compile-check 1
+exam 80
+hw 100
+lw 1
+engagement 85
+reading 85

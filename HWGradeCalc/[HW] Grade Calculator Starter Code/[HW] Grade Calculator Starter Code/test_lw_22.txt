@@ -1,0 +1,4 @@
+lw 1
+lw 0
+compile-check 1
+compile-check 1
