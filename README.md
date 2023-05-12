@@ -1,2 +1,2 @@
 # CSCE-120
-Repo of all my labs, hws, and projects for CSCE-120
+This is for TAMU CSCE-120 taken during fall of 2022. This is here only to showcase my work.
